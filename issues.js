@@ -33,7 +33,7 @@ exports.update = function (req, res) {
 }
 
 exports.showAdd = function (req, res) {
-    res.render('isue')
+    res.render('issue')
 }
 
 exports.add = function (req, res) {
